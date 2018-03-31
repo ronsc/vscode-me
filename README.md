@@ -35,6 +35,8 @@ code --install-extension rbbit.typescript-hero
 
 ## Cmder Powerline
 
+* Download Cmder [Git Repo Release](https://github.com/cmderdev/cmder/releases)
+
 * Download Font [Source Code Pro for Powerline](https://github.com/powerline/fonts/tree/master/SourceCodePro)
 
 * Custom Terminal Style [Cmder-powerline-prompt](https://github.com/AmrEldib/cmder-powerline-prompt)
